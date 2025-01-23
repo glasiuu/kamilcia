@@ -1,0 +1,44 @@
+body {
+	background: #e4becf;
+	margin: auto;
+	max-width: 1000px;
+	font-family: Gabriola;
+}
+
+.top {
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 24px;
+}
+
+.mocha1 {
+	text-align: center;
+}
+
+.wybór {
+	text-align: center;
+	font-family: Arial;
+	font-size: 48px;
+}
+
+.thx {
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 24px;
+}
+
+.mocha3 {
+	text-align: center;
+}
+
+.powrot {
+	text-align: center;
+	font-family: Arial;
+	font-size: 48px;
+}
+
+a {
+	color: #FF0000;
+	font-weight: bold;
+	text-decoration: none;
+}
